@@ -2,7 +2,8 @@
 
 ## Introduction ##
 
-A parameterized Linked List that handles bitmap files (in a directory supplied on command line), creates a linked list of bitmap images using CImg’s CImgList() object and display them on the screen.
+* Implements a parameterized Linked List that handles bitmap files (in a directory supplied on command line), in addition to existing built in types. 
+* Creates a linked list of bitmap images using CImg’s CImgList() object and displays them on the screen.
 
 
 ## Usage
@@ -10,7 +11,7 @@ A parameterized Linked List that handles bitmap files (in a directory supplied o
 
 ```
 make
-./LinkedList (directory-name)
+./LinkedList directory-name
 ```
 
 ## Documentation
