@@ -5,6 +5,11 @@
 * Implements a parameterized Linked List that handles bitmap files (in a directory supplied on command line), in addition to existing built in types. 
 * Creates a linked list of bitmap images using CImg’s CImgList() object and displays them on the screen.
 
+### Sample Output Image
+
+![](output.png)
+
+
 
 ## Usage
 ### From the Command Line
